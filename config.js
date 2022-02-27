@@ -7,9 +7,8 @@ var config = {
         "愿你一直青春美丽",  // 同上...
         "愿你笑容常挂在嘴上",
         "愿你考试顺利",
-        "愿你永远身体健康",
-        "愿你夜里不再流泪 ", 
-        "愿你平平淡淡简简单单", 
+        "愿你身体健康",
+        "愿你平平淡淡简简单单",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -28,10 +27,10 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "怎么能没音乐",
-        bannar_coming: "继续",
+        bannar_coming: "还得有横幅",
         balloons_flying: "送你的",
         cake_fadein: "送你大大的蛋糕",
-        light_candle: "帮你点上蜡烛",
+        light_candle: "点上蜡烛",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
